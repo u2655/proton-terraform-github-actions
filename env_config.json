@@ -1,7 +1,7 @@
 {
     "REPLACE_ME": {
-        "role": "arn:aws:iam::111111111111:role/REPLACE_ME",
+        "role": "arn:aws:iam::327050202254:role/ExampleGithubRole",
         "region": "us-west-2",
-        "state_bucket":"REPLACE_ME"
+        "state_bucket":"acme-terriform-state"
     }
 }
