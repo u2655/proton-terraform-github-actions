@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "ea9c27e3-5637-4768-a21d-8f9ff3602ebd",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:327050202254:service/Phoenix/service-instance/Phoenix-dev",
+    "templateArn" : "arn:aws:proton:us-west-2:327050202254:service-template/load-balanced-fargate-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-west-2:327050202254:environment/Dev"
+  }
+}
