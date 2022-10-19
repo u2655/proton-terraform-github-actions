@@ -227,7 +227,7 @@ resource "aws_appautoscaling_policy" "service_task_count_target_cpu_scaling" {
     predefined_metric_specification {
       predefined_metric_type = "ECSServiceAverageCPUUtilization"
     }
-    target_value = 50
+    target_value = 80
   }
 }
 
